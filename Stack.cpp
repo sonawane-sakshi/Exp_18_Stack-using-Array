@@ -61,3 +61,8 @@ cout<<st.peek() <<endl; // Output: 24
 
     return 0;
 }
+/*
+***OUTPUT***
+25
+24
+*/
