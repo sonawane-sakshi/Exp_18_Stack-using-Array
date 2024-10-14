@@ -16,3 +16,6 @@ cout<< "Top element of the stack: " <<st.top() <<endl;
 
     return 0;
 }
+/*
+Top element of the stack: 10
+ */
